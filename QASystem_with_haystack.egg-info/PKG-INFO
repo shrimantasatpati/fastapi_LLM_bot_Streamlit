@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: QASystem-with-haystack
+Version: 0.0.1
+Author: Shrimanta_Satpati
+Author-email: satpatishrimanta@gmail.com
+Requires-Dist: pinecone-haystack
+Requires-Dist: haystack-ai
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: pathlib
